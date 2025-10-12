@@ -1,0 +1,31 @@
+SVM with LINEAR Kernel PES2UG23CS343
+              precision    recall  f1-score   support
+
+           0       0.85      0.89      0.87        75
+           1       0.89      0.84      0.86        75
+
+    accuracy                           0.87       150
+   macro avg       0.87      0.87      0.87       150
+weighted avg       0.87      0.87      0.87       150
+
+----------------------------------------
+
+SVM with RBF Kernel PES2UG23CS343
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97        75
+           1       1.00      0.95      0.97        75
+
+    accuracy                           0.97       150
+   macro avg       0.97      0.97      0.97       150
+weighted avg       0.97      0.97      0.97       150
+
+----------------------------------------
+
+SVM with POLY Kernel PES2UG23CS343
+...
+weighted avg       0.89      0.89      0.89       150
+
+----------------------------------------
+
+Output is truncated. View as a scrollable element or open in a text editor. Adjust cell output settings...
